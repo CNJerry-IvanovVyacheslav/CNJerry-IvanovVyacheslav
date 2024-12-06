@@ -1,16 +1,25 @@
-## Hi there 👋
+## System.out.println("Hello world!") 👋
 
-<!--
-**CNJerry-IvanovVyacheslav/CNJerry-IvanovVyacheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Всем привет, меня зовут Вячеслав Иванов. В настоящее время ищу работу в качестве Android-разработчика.
 
-Here are some ideas to get you started:
+На данный момент имею в своем портфолио 3 законченных приложения и 1 проект в разработке:
+- [KotlinCalculator](https://github.com/CNJerry-IvanovVyacheslav/KotlinCalculator) - классический калькулятор, написаный на Kotlin. С него все началось.
+- [Playlist Maker](https://github.com/CNJerry-IvanovVyacheslav/Playlist_Maker) - первый полноценный проект на курсе "Androin developer" от Яндекс.Практикум. Работает как приложение для создания плейлистов и прослушивания музыки.
+- [practicum-android-diploma](https://github.com/CNJerry-IvanovVyacheslav/practicum-android-diploma) - выпускная дипломная работа на курсе "Androin developer". Делали в команде из 4 человек. Работает как агрегатор вакансий на основе апишки hh.ru
+- [Wappo_game](https://github.com/CNJerry-IvanovVyacheslav/Wappo_game) - игра, вдохновленная Wappo. Решил попытаться реализовать ее на Kotlin (пока in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+val aboutMe = object {
+	val firstName: String = "Вячеслав"
+	val lastName: String = "Иванов"
+	val fullAge: Short = 26
+	val languagesProgramming: Array<String> = arrayOf("Kotlin", "Java")
+	val languagesReal: Array<String> = arrayOf("Russian", "English")
+	val contacts = Contacts(
+		email = "ivanov.viacheslav.andreevich@gmail.com",
+		telegram = "https://t.me/ivanov_vyacheslav_andr",
+		linkedin = "https://www.linkedin.com/in/viacheslav-ivanov-andr"
+	)
+}
+```
+
