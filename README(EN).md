@@ -1,12 +1,12 @@
 ## System.out.println("Hello world!") 👋
-[Русский](https://github.com/CNJerry-IvanovVyacheslav/CNJerry-IvanovVyacheslav/blob/main/README.md) || **English**
+[Русский](https://github.com/CNJerry-IvanovVyacheslav/CNJerry-IvanovVyacheslav/blob/main/README.md) | **English**
 
 ### Hello everyone, my name is Viacheslav Ivanov. I am currently looking for a job as an Android developer.
 
 At the moment, I have 3 completed applications in my portfolio and 1 project in development:
-- [KotlinCalculator](https://github.com/CNJerry-IvanovVyacheslav/KotlinCalculator) - a classic calculator written in Kotlin. It all started with him.
+- [KotlinCalculator](https://github.com/CNJerry-IvanovVyacheslav/KotlinCalculator) - a classic calculator written in Kotlin. It all started here.
 - [Playlist Maker](https://github.com/CNJerry-IvanovVyacheslav/Playlist_Maker) - my first full-fledged project on the Android developer course from Яндекс.Практикум. It works as an application for creating playlists and listening to music.
-- [practicum-android-diploma](https://github.com/CNJerry-IvanovVyacheslav/practicum-android-diploma) - graduation thesis on the course "Android developer". We did it in a team of 4 people. It works as an api-based job aggregator hh.ru
+- [practicum-android-diploma](https://github.com/CNJerry-IvanovVyacheslav/practicum-android-diploma) - graduation project on the course "Android developer". We did it in a team of 4 people. It works as an api-based job aggregator hh.ru
 - [Wappo_game](https://github.com/CNJerry-IvanovVyacheslav/Wappo_game) - a game inspired by Wappo. I decided to try to implement it on Kotlin (work in progress)
 
 ```
