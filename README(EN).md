@@ -1,7 +1,7 @@
 ## System.out.println("Hello world!") 👋
 [Русский](https://github.com/CNJerry-IvanovVyacheslav/CNJerry-IvanovVyacheslav/blob/main/README.md) || **English**
 
-### Hello everyone, my name is Vyacheslav Ivanov. I am currently looking for a job as an Android developer.
+### Hello everyone, my name is Viacheslav Ivanov. I am currently looking for a job as an Android developer.
 
 At the moment, I have 3 completed applications in my portfolio and 1 project in development:
 - [KotlinCalculator](https://github.com/CNJerry-IvanovVyacheslav/KotlinCalculator) - a classic calculator written in Kotlin. It all started with him.
