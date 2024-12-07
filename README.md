@@ -1,5 +1,5 @@
 ## System.out.println("Hello world!") 👋
-**Русский** || [English](https://github.com/CNJerry-IvanovVyacheslav/CNJerry-IvanovVyacheslav/blob/main/README(EN).md)
+**Русский** | [English](https://github.com/CNJerry-IvanovVyacheslav/CNJerry-IvanovVyacheslav/blob/main/README(EN).md)
 
 ### Всем привет, меня зовут Вячеслав Иванов. В настоящее время ищу работу в качестве Android-разработчика.
 
