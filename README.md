@@ -13,7 +13,7 @@
 val aboutMe = object {
 	val firstName: String = "Вячеслав"
 	val lastName: String = "Иванов"
-	val fullAge: Short = 26
+	val fullAge: Short = 27
 	val languagesProgramming: Array<String> = arrayOf("Kotlin", "Java")
 	val languagesReal: Array<String> = arrayOf("Русский", "Английский")
 	val contacts = Contacts(
