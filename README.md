@@ -8,7 +8,7 @@
 - [Playlist Maker](https://github.com/CNJerry-IvanovVyacheslav/Playlist_Maker) - первый полноценный проект на курсе "Android developer" от Яндекс.Практикум. Работает как приложение для создания плейлистов и прослушивания музыки.
 - [practicum-android-diploma](https://github.com/CNJerry-IvanovVyacheslav/practicum-android-diploma) - выпускная дипломная работа на курсе "Android developer". Делали в команде из 4 человек. Работает как агрегатор вакансий на основе апишки hh.ru
 - [Wappo_game](https://github.com/CNJerry-IvanovVyacheslav/Wappo_game) - игра, вдохновленная Wappo. Решил реализовать ее на Jetpack Compose.
-- [Android Dev Daily Quiz](https://github.com/CNJerry-IvanovVyacheslav/AndroidDev_Daily_Quiz) - приложение для ежедневной практики и улучшения навыков Android-разработки.
+- [AndroidDev Daily Quiz](https://github.com/CNJerry-IvanovVyacheslav/AndroidDev_Daily_Quiz) - приложение для ежедневной практики и улучшения навыков Android-разработки.
 ```
 val aboutMe = object {
 	val firstName: String = "Вячеслав"
