@@ -15,7 +15,7 @@ At the moment, I have 5 completed applications in my portfolio and 1 project in 
 val aboutMe = object {
 	val firstName: String = "Viacheslav"
 	val lastName: String = "Ivanov"
-	val fullAge: Short = 27
+	val fullAge: Short = 28
 	val languagesProgramming: Array<String> = arrayOf("Kotlin", "Java")
 	val languagesReal: Array<String> = arrayOf("Russian", "English")
 	val contacts = Contacts(
